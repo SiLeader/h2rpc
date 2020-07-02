@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+# IDE and editors
+.idea
+.vscode
+*~
+cmake-build-debug/
+cmake-build-release/
+
+# OS files
+.DS_Store
+Thunbs.db
+
+# third party prefix
+libs/
